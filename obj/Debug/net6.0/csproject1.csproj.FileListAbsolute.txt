@@ -1,0 +1,15 @@
+/Users/darinafesenko/Desktop/csproject1/bin/Debug/net6.0/csproject1
+/Users/darinafesenko/Desktop/csproject1/bin/Debug/net6.0/csproject1.deps.json
+/Users/darinafesenko/Desktop/csproject1/bin/Debug/net6.0/csproject1.runtimeconfig.json
+/Users/darinafesenko/Desktop/csproject1/bin/Debug/net6.0/csproject1.dll
+/Users/darinafesenko/Desktop/csproject1/bin/Debug/net6.0/csproject1.pdb
+/Users/darinafesenko/Desktop/csproject1/obj/Debug/net6.0/csproject1.csproj.AssemblyReference.cache
+/Users/darinafesenko/Desktop/csproject1/obj/Debug/net6.0/csproject1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darinafesenko/Desktop/csproject1/obj/Debug/net6.0/csproject1.AssemblyInfoInputs.cache
+/Users/darinafesenko/Desktop/csproject1/obj/Debug/net6.0/csproject1.AssemblyInfo.cs
+/Users/darinafesenko/Desktop/csproject1/obj/Debug/net6.0/csproject1.csproj.CoreCompileInputs.cache
+/Users/darinafesenko/Desktop/csproject1/obj/Debug/net6.0/csproject1.dll
+/Users/darinafesenko/Desktop/csproject1/obj/Debug/net6.0/refint/csproject1.dll
+/Users/darinafesenko/Desktop/csproject1/obj/Debug/net6.0/csproject1.pdb
+/Users/darinafesenko/Desktop/csproject1/obj/Debug/net6.0/csproject1.genruntimeconfig.cache
+/Users/darinafesenko/Desktop/csproject1/obj/Debug/net6.0/ref/csproject1.dll
